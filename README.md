@@ -37,13 +37,6 @@ Saya percaya bahwa setiap baris kode bisa membuka peluang baru dan membawa perub
 
 ## 📊 Statistik GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-> ⚠️ Ganti `USERNAME_GITHUB` dengan username GitHub kamu sendiri agar statistik muncul.
-
 ---
 
 ## 🌐 Hubungi Saya
